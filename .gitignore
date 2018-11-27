@@ -1,0 +1,7 @@
+*Debug*
+*.TMP
+*.vcxproj*
+*.pdb
+*.db
+*.vs*
+*.sln*
